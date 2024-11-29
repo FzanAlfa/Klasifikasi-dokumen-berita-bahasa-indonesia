@@ -1,3 +1,4 @@
 # Klasifikasi dokumen berita bahasa indonesia
 
-#Cara Penggunaan
+- 1 Download model cc.id.300.bin
+  
