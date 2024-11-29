@@ -2,8 +2,8 @@
 
 
 ## Cara Train model
-- Download dataset
-- kemudian lakukan preprocess pada dataset (pastikan outputnya berupa file txt dengan isi "__label__kategori text"
+- Download dataset (convert file menjadi format txt dengan isi sebagai berikut "__label__kategori text" tanpa tanda petik)
+- kemudian lakukan preprocessing pada dataset (bisa menggunakan file preprocessing.py pada folder preprocessing)
 - masukan dataset yang sudah melalui tahap preprocess kedalam folder Train model
 - Download model cc.id.300.bin (file model word embeddings yang telah dilatih pada korpus teks dalam bahasa Indonesia)
 - Masukan cc.id.300.bin kedalam folder Train Model
