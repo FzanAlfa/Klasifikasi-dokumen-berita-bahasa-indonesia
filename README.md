@@ -5,7 +5,7 @@
 - Download dataset (convert file menjadi format txt dengan isi sebagai berikut "__label__kategori text" tanpa tanda petik)
 - kemudian lakukan preprocessing pada dataset (bisa menggunakan file preprocessing.py pada folder preprocessing)
 - masukan dataset yang sudah melalui tahap preprocess kedalam folder Train model
-- Download model cc.id.300.bin (file model word embeddings yang telah dilatih pada korpus teks dalam bahasa Indonesia)
+- Download model cc.id.300.bin pada link berikut https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.id.300.bin.gz (file model word embeddings yang telah dilatih pada korpus teks dalam bahasa Indonesia)
 - Masukan cc.id.300.bin kedalam folder Train Model
 - buka file Train.py (sesuaikan nama dataset .txt dengan yang ditrain
 - run file dengan python3 Train.py atau python.py
