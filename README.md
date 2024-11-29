@@ -1,1 +1,3 @@
-# Klasifikasi-dokumen-berita-bahasa-indonesia
+# Klasifikasi dokumen berita bahasa indonesia
+
+#Cara Penggunaan
